@@ -83,5 +83,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Done with 💜 by Leandrocunha
+    Done with 💜 by Leandro Cunha
 </h4>
