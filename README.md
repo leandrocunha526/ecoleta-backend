@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/leandrocunha526/ecoleta?color=%237519C1">
+  <img alt="License" src="https://img.shields.io/github/license/leandrocunha526/ecoleta-backend?color=%237519C1">
 </a>
 
 ## Sobre
