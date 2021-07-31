@@ -37,6 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
+- [Knex](https://knexjs.org/)
 
 ## Web
 
