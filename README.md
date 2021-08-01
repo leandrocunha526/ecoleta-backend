@@ -55,17 +55,11 @@ git clone https://github.com/leandrocunha526/ecoleta-backend.git
 2. Para executar a aplicação
 
 
-- Instale as dependências:
-```
-npm install
-```
+- Instale as dependências: ```npm install```
 
-- Crie o banco de dados:
-``
-npm run knex:migrate e npm run knex:seed
-``
+- Crie o banco de dados: ```npm run knex:migrate e npm run knex:seed```
 
-- Inicie a API: ``` npm run dev ```
+- Inicie a API: ```npm run dev```
 
 ## Como contribuir
 
