@@ -39,10 +39,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Knex](https://knexjs.org/)
 
-## Web
-
-- O layout está disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
-
 ## Como usar
 
 - ### **Pré-requisitos**
