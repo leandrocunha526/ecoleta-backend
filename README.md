@@ -52,19 +52,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/leandrocunha526/ecoleta-backend.git
 ```
 
-2. Executando a Aplicação:
+2. Para executar a aplicação
 
-```sh
-  # Instale as dependências
-  npm install
 
-  ## Crie o banco de dados
-  npm run knex:migrate
-  npm run knex:seed
-
-  # Inicie a API
-  npm run dev
+- Instale as dependências:
 ```
+npm install
+```
+
+- Crie o banco de dados:
+``
+npm run knex:migrate e npm run knex:seed
+``
+
+- Inicie a API: ``` npm run dev ```
 
 ## Como contribuir
 
