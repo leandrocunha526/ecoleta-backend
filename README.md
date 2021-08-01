@@ -49,7 +49,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Faça um clone :
 
 ```sh
-git clone https://github.com/leandrocunha/ecoleta-backend.git
+git clone https://github.com/leandrocunha526/ecoleta-backend.git
 ```
 
 2. Executando a Aplicação:
