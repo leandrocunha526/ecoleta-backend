@@ -15,7 +15,7 @@ class PointsController{
     const serializedPoints = points.map((point) => {
       return {
         ...point,
-        image_url: `http://localhost:3333/uploads/${point.image}`
+        image_url: `http://192.0.0.105:3333/uploads/${point.image}`
       };
     });
     return response.json(serializedPoints);
@@ -29,7 +29,7 @@ class PointsController{
     }
     const serializedPoint = {
       ...point,
-      image_url: `http://localhost:3333/uploads/${point.image}`,
+      image_url: `http://192.0.0.105:3333/uploads/${point.image}`,
     }
     const items = await knex('items')
       .join('point_items', 'items.id', '=', 'point_items.item_id')
